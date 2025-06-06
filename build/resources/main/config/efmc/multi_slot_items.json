@@ -1,0 +1,14 @@
+{
+  "minecraft:diamond_block": {
+    "width": 2,
+    "height": 2
+  },
+  "minecraft:chest": {
+    "width": 3,
+    "height": 3
+  },
+  "minecraft:crafting_table": {
+    "width": 2,
+    "height": 2
+  }
+}
