@@ -1,4 +1,4 @@
-这个许可证是无用的，我不知道怎么删，哈哈哈哈
+这个许可证是无用的，我不知道怎么删，哈哈哈哈，请遵循MIT许可，这个许可无需理会
 Unless noted below, Minecraft Forge, Forge Mod Loader, and all 
 parts herein are licensed under the terms of the LGPL 2.1 found
 here http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt and 
