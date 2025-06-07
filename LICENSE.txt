@@ -22,3 +22,26 @@
 ## 定义
 - **商业用途**：任何以营利为目的的个人、组织或企业行为。
 - **个人使用**：非营利目的的个人学习、研究或非商业项目。
+
+Copyright (c) [2025] [kafei520-CN]
+
+## Grant of Rights  
+1. **Personal Use**: Permission is granted to any individual to use, modify, and distribute this software and its code **free of charge** for non-commercial purposes.  
+2. **Modification & Distribution**: You may create derivative works under the following conditions:  
+   - Retain the original copyright notice and this license file.  
+   - **Do not use modified versions for commercial purposes** (defined below).  
+3. **Patent Grant**: Users automatically receive a non-exclusive license to any patents embodied in the software.  
+
+## Restrictions  
+1. **Commercial Use Prohibited**: Any revenue-generating activity is forbidden, including but not limited to:  
+   - Integrating this software into commercial products/services.  
+   - Offering paid services (e.g., SaaS, consulting) using this software.  
+   - Selling, leasing, or advertising-sponsored use.  
+2. **Trademark Use**: Do not use the author’s name, trademarks, or logos for promotion without explicit permission.  
+
+## Disclaimer  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR DISCLAIMS ALL LIABILITY FOR DAMAGES ARISING FROM ITS USE.  
+
+## Definitions  
+- **Commercial Use**: Any activity intended for profit, whether by individuals, organizations, or businesses.  
+- **Personal Use**: Non-profit activities like learning, research, or non-commercial projects.  
